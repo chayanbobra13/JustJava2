@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">JustJava</string>
+
+    <!--XML-->
+    <string name="quantity">QUANTITY</string>
+    <string name="QUANTITY">quantity</string>
+    <string name="order">ORDER</string>
+    <string name="prices">prices</string>
+    <string name="price">price</string>
+    <string name="incre">+</string>
+    <string name="decre">-</string>
+    <string name="_10">£10</string>
+    <string name="name">Name</string>
+    <string name="get_order_summary_on_this_email">Get Order Summary On This Email</string>
+    <string name="topping">topping</string>
+    <string name="whipped_cream">Whipped Cream</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="_1">1</string>
+
+    <!--java -->
+    <string name="thank_you">Thank you !!</string>
+    <string name="icecream">Icecream</string>
+</resources>
